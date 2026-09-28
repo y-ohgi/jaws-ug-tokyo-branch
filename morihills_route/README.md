@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/y-ohgi/jaws-ug-tokyo-branch/73591a1054a9197c32e5962e6d3536ff7dde088b/morihills_route/03_route.jpeg" width="500" />
 
 5: エレベーターホールより34階へお越しください。  
-<img src="https://raw.githubusercontent.com/y-ohgi/jaws-ug-tokyo-branch/73591a1054a9197c32e5962e6d3536ff7dde088b/morihills_route/03_route.jpg" width="500" />
+<img src="https://raw.githubusercontent.com/y-ohgi/jaws-ug-tokyo-branch/73591a1054a9197c32e5962e6d3536ff7dde088b/morihills_route/04_route.jpg" width="500" />
 ```
 
 ---
@@ -52,4 +52,4 @@ _Preview_
 <img src="https://raw.githubusercontent.com/y-ohgi/jaws-ug-tokyo-branch/73591a1054a9197c32e5962e6d3536ff7dde088b/morihills_route/03_route.jpeg" width="500" />
 
 5: エレベーターホールより34階へお越しください。  
-<img src="https://raw.githubusercontent.com/y-ohgi/jaws-ug-tokyo-branch/73591a1054a9197c32e5962e6d3536ff7dde088b/morihills_route/03_route.jpg" width="500" />
+<img src="https://raw.githubusercontent.com/y-ohgi/jaws-ug-tokyo-branch/73591a1054a9197c32e5962e6d3536ff7dde088b/morihills_route/04_route.jpg" width="500" />
